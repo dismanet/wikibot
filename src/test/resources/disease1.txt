@@ -1,0 +1,106 @@
+{{short description|Types of cyst}}
+{{Infobox medical condition (new)
+| name            = Sebaceous cyst
+| image           = Inflamed epidermal inclusion cyst.jpg
+| caption         =
+| field           = [[Dermatology]], [[general surgery]]
+| pronounce       = {{IPAc-en|s|?|?|b|e?|?|?|s|_|s|?|s|t}}
+| symptoms        =
+| complications   =
+| onset           =
+| duration        =
+| types           =
+| causes          =
+| risks           =
+| diagnosis       =
+| differential    =
+| prevention      =
+| treatment       =
+| medication      =
+| prognosis       =
+| frequency       =
+| deaths          =
+}}
+
+A '''sebaceous cyst''' is a term commonly used to refer to either:<ref>{{cite web |url=http://www.bad.org.uk/for-the-public/patient-information-leaflets/cysts---epidermoid-and-pilar?q=Cysts%20-%20epidermoid%20and%20pilar#.UzwTVPldVJs |title=Epidermoid and pilar cysts (previously known as sebaceous cysts)|publisher=British Association of Dermatologists|accessdate=April 2, 2014}}</ref>
+
+* [[Epidermoid cyst]]s (also termed ''epidermal cysts'', ''infundibular cyst''), or
+* [[Pilar cyst]]s (also termed ''trichelemmal cysts'', ''isthmus-catagen cysts'').
+
+Both of the above types of [[cyst]] contain [[keratin]], not [[sebum]], and neither originates from [[sebaceous gland]]s. Epidermoid cysts originate in the [[epidermis (skin)|epidermis]] and pilar cysts originate from [[hair follicle]]s. Therefore, technically speaking they are not sebaceous cysts.<ref>{{cite web |url=http://www.patient.co.uk/doctor/epidermoid-and-pilar-cysts-sebaceous-cysts |title=Epidermoid and Pilar Cysts (Sebaceous Cysts) - Patient UK |accessdate=2013-03-04 |website=}}</ref> "True" sebaceous cysts, cysts which originate from sebaceous glands and which contain sebum, are relatively rare and are known as [[steatocystoma simplex]] or, if multiple, as [[steatocystoma multiplex]].
+
+Medical professionals have suggested that the term ''sebaceous cyst'' be avoided since it can be misleading.<ref name=Neville2002>{{cite book|vauthors=Neville BW, Damm DD, Allen CA, Bouquot JE |title=Oral & maxillofacial pathology|year=2002|publisher=W.B. Saunders|location=Philadelphia|isbn=978-0721690032|edition=2nd}}</ref>{{rp|31}} In practice, however, the term is still often used for epidermoid and pilar cysts.
+
+==Signs and symptoms==
+{{Unreferenced section|date=October 2011}}
+[[Image:Sebaceous cyst.jpg|thumb|Close-up of an infected sebaceous cyst located behind the ear lobe.]]
+The [[scalp]], [[ear]]s, [[back]], [[face]], and [[upper arm]], are common sites of sebaceous cysts, though they may occur anywhere on the body except the palms of the [[hand]]s and [[Sole (foot)|soles]] of the feet. In males a common place for them to develop is the [[scrotum]] and [[chest]]. They are more common in hairier areas, where in cases of long duration they could result in [[hair loss]] on the skin surface immediately above the cyst. They are smooth to the touch, vary in size, and are generally round in shape.
+
+They are generally mobile masses that can consist of:
+* [[Fibrous tissues]] and fluids,
+* A fatty ([[keratinous]]) substance that resembles [[cottage cheese]], in which case the cyst may be called "keratin cyst". This material has a characteristic "cheesy" or [[Foot odor#Odor qualities|foot odor]] smell,
+* A somewhat viscous, serosanguineous fluid (containing [[purulent]] and bloody material).
+
+The nature of the contents of a sebaceous cyst, and of its surrounding capsule, differs depending on whether the cyst has ever been infected.
+
+With surgery, a cyst can usually be excised in its entirety. Poor surgical technique, or previous infection leading to scarring and tethering of the cyst to the surrounding tissue, may lead to rupture during excision and removal. A completely removed cyst will not recur, though if the patient has a predisposition to cyst formation, further cysts may develop in the same general area.
+
+==Causes==
+High levels of [[testosterone]] and the use of androgenic anabolic steroids<ref>{{cite journal|last1=Scott|first1=MJ|last2=Scott|first2=AM|title=Effects of anabolic-androgenic steroids on the pilosebaceous unit|journal=Cutis|date=1992|volume=50|issue=2|pages=113�116|pmid=1387354}}</ref> will cause such cysts.<ref>{{cite journal |author=Zuber TJ |title=Minimal excision technique for epidermoid (sebaceous) cysts |journal=Am Fam Physician |volume=65 |issue=7 |pages=1409�12, 1417�8, 1420 |year=2002 |pmid=11996426 |doi= |url=http://www.aafp.org/afp/20020401/1409.html}}</ref>
+
+A case has been reported of a sebaceous cyst being caused by [[Dermatobia hominis|the human botfly]].<ref name="pmid12354816">{{cite journal |vauthors=Harbin LJ, Khan M, Thompson EM, Goldin RD |title=A sebaceous cyst with a difference: Dermatobia hominis |journal=J. Clin. Pathol. |volume=55 |issue=10 |pages=798�9 |year=2002 |pmid=12354816 |doi=10.1136/jcp.55.10.798 |pmc=1769786}}</ref>
+
+Hereditary causes of sebaceous cysts include [[Gardner's syndrome]] and [[basal cell nevus syndrome]].
+
+==Types==
+
+===Epidermoid cyst===
+
+{{main|Epidermoid cyst}}
+
+===Pilar cyst===
+
+{{main|Pilar cyst}}
+
+About 90% of pilar cysts occur on the scalp, with the remaining sometimes occurring on the face, trunk and extremities.<ref name=Barnes2008 />{{rp|1477}} Pilar cysts are significantly more common in females, and a tendency to develop these cysts is often inherited in an [[autosomal dominant]] pattern.<ref name=Barnes2008 />{{rp|1477}} In most cases, multiple pilar cysts appear at once.<ref name=Barnes2008>{{cite book|editor=Barnes L|title=Surgical pathology of the head and neck|year=2008|publisher=Informa Healthcare|location=New York|isbn=978-0849390234|edition=3rd}}</ref>{{rp|1477}}
+
+==Treatment==
+{{Refimprove section|date=September 2007}}
+Sebaceous cysts generally do not require medical treatment. However, if they continue to grow, they may become unsightly, painful, infected, or all of the above.
+
+===Surgical===
+[[surgery|Surgical]] excision of a sebaceous cyst is a simple procedure to completely remove the sac and its contents.<ref name="pmid2349906">{{cite journal |vauthors=Klin B, Ashkenazi H |title=Sebaceous cyst excision with minimal surgery |journal=American Family Physician |volume=41 |issue=6 |pages=1746�8 |year=1990 |pmid=2349906 |doi=}}</ref>
+
+[[File:Sebaceous Cyst.jpg|thumb|A sebaceous cyst that has been surgically removed.]]
+
+There are three general approaches used: traditional wide excision, minimal excision, and punch biopsy excision.<ref name="pmid17403333">{{cite journal |vauthors=Moore RB, Fagan EB, Hulkower S, Skolnik DC, O'Sullivan G |title=Clinical inquiries. What's the best treatment for sebaceous cysts? |journal=The Journal of Family Practice |volume=56 |issue=4 |pages=315�6 |year=2007 |pmid=17403333 |doi=}}</ref>
+
+The typical outpatient surgical procedure for cyst removal is to numb the area around the cyst with a [[local anaesthetic]], then to use a [[scalpel]] to open the lesion with either a single cut down the center of the swelling, or an oval cut on both sides of the centerpoint. If the cyst is small, it may be [[lanced]] instead. The person performing the surgery will squeeze out the contents of the cyst, then use blunt-headed scissors or another instrument to hold the incision wide open while using fingers or forceps to try to remove the cyst wall intact. If the cyst wall can be removed in one piece, the "cure rate" is 100%.{{Citation needed|date=November 2007}} If, however, it is fragmented and cannot be entirely recovered, the operator may use [[curettage]] (scraping) to remove the remaining exposed fragments, then burn them with an [[cauterization|electro-cauterization]] tool, in an effort to destroy them in place. In such cases the cyst may recur. In either case, the incision is then [[disinfected]] and, if necessary, the skin is stitched back together over it. A [[scar]] will most likely result.
+
+An infected cyst may require oral [[antibiotic]]s or other treatment before or after excision. If pus has already formed then incision and drainage should be done along with avulsion of the cyst wall with proper antibiotics coverage.
+
+An approach involving incision, rather than excision, has also been proposed.<ref name="pmid11322399">{{cite journal |author=Nakamura M |title=Treating a sebaceous cyst: an incisional technique |journal=Aesthetic Plastic Surgery |volume=25 |issue=1 |pages=52�6 |year=2001 |pmid=11322399 |doi=10.1007/s002660010095}}</ref>
+
+==References==
+{{reflist|30em}}
+
+== External links ==
+{{Medical resources
+| DiseasesDB      = 29388
+| ICD10           = Epidermoid cyst {{ICD10|L|72|0|0|60}},<br />Pilar cyst {{ICD10|L|72|1|l|60}}
+| ICD9            = {{ICD9|706.2}}
+| ICDO            =
+| OMIM            =
+| MedlinePlus     = 000842
+| eMedicineSubj   =
+| eMedicineTopic  =
+}}
+{{commons category|Sebaceous cysts}}
+* [http://www.umm.edu/ency/article/000842all.htm Overview] at University of Maryland Medical Center
+* {{EMedicine|derm|860|Epidermal Inclusion Cyst}}
+
+{{Disorders of skin appendages}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sebaceous Cyst}}
+[[Category:Epidermal nevi, neoplasms, cysts]]

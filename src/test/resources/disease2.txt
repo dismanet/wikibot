@@ -1,0 +1,92 @@
+{{Infobox medical condition (new)
+| name            = Lecithin cholesterol acyltransferase deficiency
+| synonyms        = LCAT deficiency
+| image           = 
+| caption         = 
+| pronounce       = 
+| field           = 
+| symptoms        = 
+| complications   = 
+| onset           = 
+| duration        = 
+| types           = 
+| causes          = 
+| risks           = 
+| diagnosis       = 
+| differential    = 
+| prevention      = 
+| treatment       = 
+| medication      = 
+| prognosis       = 
+| frequency       = 
+| deaths          = 
+}}
+'''Lecithin cholesterol acyltransferase deficiency''' is a disorder of [[lipoprotein]] metabolism.<ref name="pmid9162740">{{cite journal |vauthors=Kuivenhoven JA, Pritchard H, Hill J, Frohlich J, Assmann G, Kastelein J |title=The molecular pathology of lecithin:cholesterol acyltransferase (LCAT) deficiency syndromes |journal=J. Lipid Res. |volume=38 |issue=2 |pages=191–205 |date=February 1997 |pmid=9162740 |doi= |url=http://www.jlr.org/cgi/pmidlookup?view=long&pmid=9162740}}</ref> The [[disease]] has two forms:<ref name="pmid15994445">{{cite journal |pmid=15994445 |doi=10.1161/01.ATV.0000175751.30616.13 |url=http://atvb.ahajournals.org/cgi/pmidlookup?view=long&pmid=15994445 |date=Sep 2005 |vauthors=Calabresi L, Pisciotta L, Costantin A, Frigerio I, Eberini I, Alessandrini P, Arca M, Bon GB, Boscutti G, Busnach G, Frasc G, Gesualdo L, Gigante M, Lupattelli G, Montali A, Pizzolitto S, Rabbone I, Rolleri M, Ruotolo G, Sampietro T, Sessa A, Vaudo G, Cantafora A, Veglia F, Calandra S, Bertolini S, Franceschini G |title=The molecular basis of lecithin:cholesterol acyltransferase deficiency syndromes: a comprehensive study of molecular and biochemical findings in 13 unrelated Italian families. |volume=25 |issue=9 |pages=1972–1978 |issn=1079-5642 |journal=Arteriosclerosis, Thrombosis, and Vascular Biology}}</ref> Familial LCAT deficiency, in which there is complete LCAT deficiency, and '''Fish-eye disease''', in which there is a partial deficiency.<ref name="Carlson">{{Cite journal | pmid = 1424675| year = 1992| last1 = Koster| first1 = H| title = A fish-eye disease-like familial condition with massive corneal clouding and dyslipoproteinemia. Report of clinical, histologic, electron microscopic, and biochemical features| journal = Cornea| volume = 11| issue = 5| pages = 452–64| last2 = Savoldelli| first2 = M| last3 = Dumon| first3 = M. F.| last4 = Dubourg| first4 = L| last5 = Clerc| first5 = M| last6 = Pouliquen| first6 = Y | doi=10.1097/00003226-199209000-00016}}</ref>
+
+[[Lecithin cholesterol acyltransferase]] catalyzes the formation of [[cholesterol ester]]s in lipoproteins.
+
+==Signs and symptoms==
+Symptoms of the familial form include visual impairment caused by diffuse [[cornea]]l opacities, target cell [[hemolytic anemia]], and [[renal failure]]. Less common symptoms include atherosclerosis, hepatomegaly (enlarged liver), splenomegaly (enlarged spleen), and [[lymphadenopathy]].<ref name=":0">{{Cite journal|date=2016-08-08|title=Lecithin-Cholesterol Acyltransferase Deficiency: Overview, Presentation, Differential Diagnosis|url=http://emedicine.medscape.com/article/122958-overview#a3}}</ref>
+
+Fish-eye disease is less severe and most commonly presents with impaired vision due to corneal opacification. It rarely presents with other findings, although, atherosclerosis, hepatomegaly, splenomegaly, and lymphadenopathy can occur.<ref name=":0" /> Carlson and Philipson found that the disease was named so because the [[cornea]] of the eye was so opaque or cloudy with dots of [[cholesterol]] that it resembled a boiled fish.<ref name="Kuivenhoven97">{{Cite journal | pmid = 9162740| year = 1997| last1 = Kuivenhoven| first1 = J. A.| title = The molecular pathology of lecithin:cholesterol acyltransferase (LCAT) deficiency syndromes| journal = Journal of Lipid Research| volume = 38| issue = 2| pages = 191–205| last2 = Pritchard| first2 = H| last3 = Hill| first3 = J| last4 = Frohlich| first4 = J| last5 = Assmann| first5 = G| last6 = Kastelein| first6 = J}}</ref>
+
+If an individual only carry one copy of the mutated gene, they typically do not show symptoms.<ref>{{cite web|author=Kaneshiro, N.K.|title=Autosomal Recessive|publisher=National Institutes of Health, Medline Plus|year=2014|url=https://www.nlm.nih.gov/medlineplus/ency/article/002052.htm}}</ref>
+
+== Pathophysiology ==
+A deficiency of LCAT causes accumulation of unesterified cholesterol in certain body tissues. Cholesterol effluxes from cells as free cholesterol and is transported in HDL as esterified cholesterol. LCAT is the enzyme that esterifies the free cholesterol on HDL to cholesterol ester and allows the maturation of HDL. LCAT deficiency does not allow for HDL maturation resulting in its rapid catabolism of circulating apoA-1 and apoA-2. The remaining form of HDL resembles nascent HDL.
+
+The LCAT [[glycoprotein]] produces [[lysophosphatidylcholine]] and cholesterol [[ester]] and binds to [[lipoproteins]] after being secreted by the [[liver]].<ref name="Kuivenhoven97" /> Usually the enzyme produced is responsible for cholesterol ester formation and high density lipoprotein (HDL) metabolism, but in fish-eye disease the enzyme cannot esterify, or make the [[acid]] into an [[alkyl]], cholesterol in HDL particles.<ref name="Kuivenhoven95" /> However, there is only a partial deficiency because the enzyme remains active on the cholesterol particles in [[very low density lipoprotein]]s (VLDL) and [[low density lipoprotein]]s (LDL).<ref name="Kuivenhoven95" /> The opaqueness of the eye is caused by the deposit of lipids onto the cornea.<ref name="Kuivenhoven95" />
+
+== Diagnosis ==
+
+Definitive diagnosis requires LCAT gene analysis for mutation and functional activity. However, numerous lab tests may help with making a diagnosis such as complete blood count (CBC), urinalysis, blood chemistries, lipid panels, and plasma LCAT activity.<ref>{{Cite journal|date=2016-08-08|title=Lecithin-Cholesterol Acyltransferase Deficiency: Overview, Presentation, Differential Diagnosis|url=http://emedicine.medscape.com/article/122958-overview#a4}}</ref>
+
+Fish-eye disease is characterized by abnormalities like visual impairment, plaques of fatty material, and dense opacification.<ref name="Kuivenhoven97" /><ref name="Kuivenhoven95" />
+
+===Types===
+Both the familial type and Fish-eye disease are [[autosomal recessive]] disorders caused by mutations of the ''[[Lecithin—cholesterol acyltransferase|LCAT]]'' [[gene]] located on [[chromosome 16]]q22.1, which is the long (q) arm of chromosome 16 a position 22.1.<ref name="Kuivenhoven95">{{Cite journal | pmid = 8675648| pmc = 185988| year = 1995| last1 = Kuivenhoven| author2 = van Voorst tot Voorst EJ| first1 = J. A.| title = A unique genetic and biochemical presentation of fish-eye disease| journal = Journal of Clinical Investigation| volume = 96| issue = 6| pages = 2783–91| last3 = Wiebusch| first3 = H| last4 = Marcovina| first4 = S. M.| last5 = Funke| first5 = H| last6 = Assmann| first6 = G| last7 = Pritchard| first7 = P. H.| last8 = Kastelein| first8 = J. J.| doi = 10.1172/JCI118348}}</ref> Both diseases are very rare with ~70 reported cases of familial LCAT deficiency<ref>{{Cite web|url=https://ghr.nlm.nih.gov/condition/complete-lcat-deficiency|title=complete LCAT deficiency|last=Reference|first=Genetics Home|website=Genetics Home Reference|access-date=2016-12-11}}</ref> and ~30 cases of fish-eye disease.<ref>{{Cite web|url=https://ghr.nlm.nih.gov/condition/fish-eye-disease|title=fish-eye disease|last=Reference|first=Genetics Home|website=Genetics Home Reference|access-date=2016-12-11}}</ref>
+
+=== Familial LCAT Deficiency Lab Findings ===
+* CBC: normochromic normocytic anemia
+* Urinalysis: proteinuria in young adults (suggestive of renal failure)
+* Blood Chemistries: elevated blood urea nitrogen (BUN) and creatinine (suggestive of renal failure)
+* Lipid Panel: low high-density lipoprotein (HDL) < 10&nbsp;mg/dL, elevated very low-density lipoprotein (VLDL) and triglycerides, high plasma unesterified cholesterol, and low plasma cholesterol ester
+* Plasma LCAT activity: decreased (determined by decreased ability to esterify radioactive cholesterol in exogenous lipoproteins)
+
+=== Fish-eye Disease Lab Findings ===
+* CBC: no anemia
+* Urinalysis: no proteinuria
+* Blood Chemistries: normal blood urea nitrogen (BUN) and creatinine (no signs of renal failure)
+* Lipid Panel: low high-density lipoprotein (HDL) < 10&nbsp;mg/dL, elevated very low-density lipoprotein (VLDL) and triglycerides, high plasma unesterified cholesterol in HDL particles, and low cholesterol ester in HDL particles but normal levels in low-density lipoprotein (LDL) and VLDL particles
+* Plasma LCAT activity: decreased only in HDL particles but not LDL
+
+===Genetic Findings in Fish-eye Disease===
+Mutations in the LCAT gene, which is localized in the q21–22 region of [[chromosome 16]], cause fish-eye disease.<ref name="Carlson" /> The mutation in the LCAT gene is [[homozygous]] for a [[Threonine|Thr]]123?[[Isoleucine|Ile]] mutation or [[Proline|Pro]]10?[[Leucine|Leu]] mutation.<ref>{{Cite journal | pmid = 8820100| year = 1996| last1 = Contacos| first1 = C| title = A new molecular defect in the lecithin: Cholesterol acyltransferase (LCAT) gene associated with fish eye disease| journal = Journal of Lipid Research| volume = 37| issue = 1| pages = 35–44| last2 = Sullivan| first2 = D. R.| last3 = Rye| first3 = K. A.| last4 = Funke| first4 = H| last5 = Assmann| first5 = G}}</ref> New mutations have been identified as homozygosity for an A2205?G [[nucleotide]] substitution in [[exon]] 4 of the LCAT gene which is predicted to be the cause of an [[Aspartic acid|Asp]]131?[[Asparagine|Asn]] substitution.<ref name="Kuivenhoven95" />
+
+== Treatment ==
+Currently, there is no specific treatment to correct the LCAT deficiency so therapy is focused on symptom relief.<ref>{{Cite web|url=https://rarediseases.info.nih.gov/diseases/6450/fish-eye-disease|title=Fish-eye disease {{!}} Genetic and Rare Diseases Information Center (GARD) – an NCATS Program|website=rarediseases.info.nih.gov|language=en|access-date=2018-04-17}}</ref> Corneal transplant may be considered for patients presenting with severely impaired vision caused by cholesterol corneal opacities. Dialysis may be required for patients presenting with renal failure, and kidney transplant may be considered.
+
+== Prognosis ==
+Renal failure is the major cause of morbidity and mortality in complete LCAT deficiency, while in partial deficiency (fish eye disease) major cause of morbidity is visual impairment due to corneal opacity. These patients have low HDL cholesterol but surprisingly premature atherosclerosis is not seen. However, there are some reported cases.
+
+==References==
+{{Reflist}}
+== External links ==
+{{Medical resources
+| DiseasesDB      = 7343
+| ICD10           = {{ICD10|E|78|6|e|70}}
+| ICD9            = {{ICD9|272.5}}
+| ICDO            =
+| OMIM            = 245900
+| OMIM_mult       = {{OMIM2|136120}}
+| MedlinePlus     =
+| eMedicineSubj   = med
+| eMedicineTopic  = 1270
+| MeshID          = D007863
+}}
+{{Lipidemias}}
+
+[[Category:Lipid metabolism disorders]]
+[[Category:Autosomal recessive disorders]]
+[[Category:Diseases of the eye and adnexa]]
+[[Category:Disorders of sclera and cornea]]

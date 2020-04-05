@@ -1,0 +1,6 @@
+disnet_id	disnet_name	disnet_url	resource	resource_code	resource_name
+disease1	Sebaceous cyst	http://en.wikipedia.org/wiki/Sebaceous_cyst	ICD-10	L72.3	Sebaceous cyst
+disease2	Lecithin cholesterol acyltransferase deficiency	http://en.wikipedia.org/wiki/Lecithin_cholesterol_acyltransferase_deficiency	SNOMED CT	238091006	Lecithin cholesterol acyltransferase deficiency
+
+
+
